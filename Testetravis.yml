@@ -7,4 +7,4 @@ script:
  after script:
  notificacions:
      recipients:
-        - vanderson.bossi@faculdadeimpacta.com.br
+        - isaac.santos@aluno.faculdadeimpacta.com.br
