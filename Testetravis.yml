@@ -1,6 +1,6 @@
 .travis.yml
 language:
--"3.6"
+-"3.7"
 #command to run tests
 script:
  - py.test teste.py
