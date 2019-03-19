@@ -1,0 +1,10 @@
+.travis.yml
+language:
+-"3.4"
+#command to run tests
+script:
+ - py.test teste.py
+ after script:
+ notificacions:
+     recipients:
+        - vanderson.bossi@faculdadeimpacta.com.br
